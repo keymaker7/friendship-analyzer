@@ -1,0 +1,17 @@
+streamlit
+pandas
+networkx
+matplotlib
+plotly
+seaborn
+numpy
+scipy
+requests
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+openpyxl
+xlsxwriter
+scikit-learn
+python-louvain 
